@@ -1,2 +1,2 @@
 # file_loader_Aaron
-Downloads all the files from the DESI Data Set
+Downloads files from Lya Working Group Quasar Redshift Catalog (zlya)
